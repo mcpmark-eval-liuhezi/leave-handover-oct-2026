@@ -50,5 +50,5 @@ The GitHub team lookup returned exactly one organization and **zero teams**:
 - **Link:** https://github.com/mcpmark-eval-liuhezi/leave-handover-oct-2026/pull/4
 - **Contents:** `HANDOVER.md` (team rosters, notification triage, the three issue numbers)
 - **Review status:** **no reviews yet** — the reviews list is empty; 0 approvals, 0 change requests, 0 comments, 0 diff review comments
-- **Branch sync:** after `ON-LEAVE.md` (one-line pointer to PR #4) landed on `main` (commit `1773679`), `handover-notes` was updated from the default branch via merge commit `b8935d9`; after the gist-fallback file `handover-summary.md` landed on `main` (commit `4e02937`), the branch was synced a second time via merge commit `dd8703`. The PR shows 3 commits, 1 changed file (`HANDOVER.md`), +93/−0, no conflicts, `mergeable_state: clean`
+- **Branch sync:** after `ON-LEAVE.md` (commit `1773679`) and the gist-fallback `handover-summary.md` landed on `main`, `handover-notes` was updated from the default branch (merge commits `b8935d9`, `dd8703`, plus a final sync), so the PR is up to date with `main` and merges cleanly. The PR diff shows only `HANDOVER.md` (1 file, +93/−0), with no conflicts.
 - **Also on `main`:** `ON-LEAVE.md`, pointing at the pull request
